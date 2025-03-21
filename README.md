@@ -1,10 +1,6 @@
 # Assignment5_Customizellm
 
 # 🧠 LLM Fine-Tuning & Reward Modeling Assignment using Unsloth
-
-## 🔗 Submission by: [Your Name]  
-## 📅 Date: [Submission Date]
-
 ---
 
 ## 📁 Contents
@@ -18,16 +14,6 @@ This repository contains Colab notebooks and demonstration videos for the follow
 - E) Continued Fine-Tuning from Custom Checkpoints  
 - F) Mental Health Chatbot using Phi-3  
 - G) Ollama Export + Inference  
-- ✅ GitHub Repo with documentation (this file)
-
----
-
-## ✅ Submission Guidelines
-
-Each section contains:
-- 🔗 A **Google Colab notebook link** (with outputs)
-- 🎥 A **video walkthrough link** (explaining the process and results)
-
 ---
 
 ## 🧩 A) Fine-Tuning LLMs on Unique Use Cases
