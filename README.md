@@ -81,8 +81,3 @@ This repository contains Colab notebooks and demonstration videos for the follow
 - 🔗 [Colab Notebook](#)  
 - 🔗 [Model exported to Ollama](#)  
 - 🧪 **Local Inference Demo**: [Video Link](#)
-
----
-
-## 📘 GitHub Repo Structure
-
