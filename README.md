@@ -20,10 +20,10 @@ This repository contains Colab notebooks and demonstration videos for the follow
 
 | Model Used       | Use Case            | Colab Notebook | Video Link |
 |------------------|---------------------|----------------|------------|
-| LLaMA 3.1 (8B)    | Chatbot              | [Colab](#)     | [Video](#) |
-| Mistral NeMo     | Coding Assistant     | [Colab](#)     | [Video](#) |
-| Gemma 2 (9B)     | Text Classification  | [Colab](#)     | [Video](#) |
-| TinyLlama        | Long Context Chat    | [Colab](#)     | [Video](#) |
+| LLaMA 3.1 (8B)   | Coding Assistant    | [Colab]()     | [Video](#) |
+| Mistral NeMo     | Conversational chat  | [Colab](https://colab.research.google.com/drive/1FPYlz8vdaGCHA-6vipkUzJDZQB9Bxe17#scrollTo=05ae6956)     | [Video](#) |
+| Gemma 2 (9B)     | Text Summarization   | [Colab](https://colab.research.google.com/drive/1X3nYiYiZjdCMgBQ7SJGCaZeLVUqOwtz0)     | [Video](#) |
+| Phi3.5           | Sentiment Analysis   | [Colab](https://colab.research.google.com/drive/181ccUJMnpajYeQLkEpnB_ZSSfotSEm0A)     | [Video](#) |
 
 > *Note: Each notebook uses LoRA + Unsloth-based fine-tuning and logs loss, metrics, and inference validation.*
 
