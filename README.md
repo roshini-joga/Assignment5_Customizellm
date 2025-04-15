@@ -20,16 +20,16 @@ This repository contains Colab notebooks and demonstration videos for the follow
 
 | Model Used       | Use Case            | Colab Notebook | Video Link |
 |------------------|---------------------|----------------|------------|
-| LLaMA 3.1 (8B)   | Coding Assistant    | [Colab]()     | [Video](#) |
-| Mistral NeMo     | Conversational chat  | [Colab](https://colab.research.google.com/drive/1FPYlz8vdaGCHA-6vipkUzJDZQB9Bxe17#scrollTo=05ae6956)     | [Video](#) |
-| Gemma 2 (9B)     | Text Summarization   | [Colab](https://colab.research.google.com/drive/1X3nYiYiZjdCMgBQ7SJGCaZeLVUqOwtz0)     | [Video](#) |
+| LLaMA 3.1 (8B)   | Coding Assistant    | [Colab]()     | [Video](https://youtu.be/g1GIxGEVRa0) |
+| Mistral NeMo     | Conversational chat  | [Colab](https://colab.research.google.com/drive/1FPYlz8vdaGCHA-6vipkUzJDZQB9Bxe17#scrollTo=05ae6956)     | [Video](https://youtu.be/o-4VjLK0AFw) |
+| Gemma 2 (9B)     | Text Summarization   | [Colab](https://colab.research.google.com/drive/1X3nYiYiZjdCMgBQ7SJGCaZeLVUqOwtz0)     | [Video](https://youtu.be/Lr6QMYuhTSI) |
 | Phi3.5           | Sentiment Analysis   | [Colab](https://colab.research.google.com/drive/181ccUJMnpajYeQLkEpnB_ZSSfotSEm0A)     | [Video](#) |
 
 > *Note: Each notebook uses LoRA + Unsloth-based fine-tuning and logs loss, metrics, and inference validation.*
 
 ---
 
-## 🧠 B) Continued Pretraining
+##  B) Continued Pretraining
 
 - 🧾 **Task:** Make LLM learn a new language  
 - 📘 **Language Used:** [Specify Language]  
@@ -38,7 +38,7 @@ This repository contains Colab notebooks and demonstration videos for the follow
 
 ---
 
-## 💬 C) Chat Templates Use Cases
+##  C) Chat Templates Use Cases
 
 | Task Type                      | Colab Notebook | Video Link |
 |-------------------------------|----------------|------------|
