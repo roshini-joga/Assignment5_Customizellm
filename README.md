@@ -53,14 +53,14 @@ Conversational Chatbot,Classification via Templates,Extended Context (TinyLlama)
 
 ## 🧩 E) Continued Fine-tuning from Custom Checkpoint
 
-- 🔗 [Colab Notebook](#)  
+- 🔗 [Colab Notebook]()  
 - 🎥 [Video Walkthrough](#)
 
 ---
 
 ## 🧘‍♀️ F) Mental Health Chatbot using Phi-3
 
-- 🔗 [Colab Notebook](#)  
+- 🔗 [Colab Notebook](https://colab.research.google.com/drive/1FpjjmWD3-HqQfWZQZaTEx4T0lvYJlBxs?usp=sharing)  
 - 🎥 [Video Walkthrough](#)
 
 > *Model is trained on mental health-specific conversations and validated via chat.*
