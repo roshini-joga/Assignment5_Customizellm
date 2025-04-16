@@ -41,12 +41,11 @@ This repository contains Colab notebooks and demonstration videos for the follow
 ##  C) Chat Templates Use Cases
 
 Conversational Chatbot,Classification via Templates,Extended Context (TinyLlama),Multi-Dataset Single Training   
-| [Colab]()     
+| [Colab]() |   
 | [Video](#) |
 
 ## 🎯 D) Reward Modeling - DPO & ORPO
-| DPO (Direct Preference) | [Colab](https://colab.research.google.com/drive/1Au1iYaK3KwRzLphHnGqMJCMge-1q9pkW#scrollTo=CuIoybYmAiJE) | [Video](#) |
-| ORPO (Optimal Reward)  
+| DPO (Direct Preference),ORPO (Optimal Reward)| [Colab](https://colab.research.google.com/drive/1Au1iYaK3KwRzLphHnGqMJCMge-1q9pkW#scrollTo=CuIoybYmAiJE) | [Video](#) |
 
 > *Each notebook uses preference-based data and logs accuracy/reward shift.*
 
