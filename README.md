@@ -32,8 +32,8 @@ This repository contains Colab notebooks and demonstration videos for the follow
 ##  B) Continued Pretraining
 
 - 🧾 **Task:** Make LLM learn a new language  
-- 📘 **Language Used:** [Specify Language]  
-- 🔗 [Colab Notebook](#)  
+- 📘 **Language Used:** [Telugu]  
+- 🔗 [Colab Notebook]()  
 - 🎥 [Video Walkthrough](#)
 
 ---
