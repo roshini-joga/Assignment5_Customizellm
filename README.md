@@ -33,28 +33,20 @@ This repository contains Colab notebooks and demonstration videos for the follow
 
 - 🧾 **Task:** Make LLM learn a new language  
 - 📘 **Language Used:** [Telugu]  
-- 🔗 [Colab Notebook]()  
+- 🔗 [Colab Notebook](https://colab.research.google.com/drive/1O-7G-kVvxNe1JUVLIc64Ejshv8kXdgRN#scrollTo=Ku1qNpnREwuM)  
 - 🎥 [Video Walkthrough](#)
 
 ---
 
 ##  C) Chat Templates Use Cases
 
-| Task Type                      | Colab Notebook | Video Link |
-|-------------------------------|----------------|------------|
-| Conversational Chatbot        | [Colab](#)     | [Video](#) |
-| Classification via Templates  | [Colab](#)     | [Video](#) |
-| Extended Context (TinyLlama)  | [Colab](#)     | [Video](#) |
-| Multi-Dataset Single Training | [Colab](#)     | [Video](#) |
-
----
+Conversational Chatbot,Classification via Templates,Extended Context (TinyLlama),Multi-Dataset Single Training   
+| [Colab]()     
+| [Video](#) |
 
 ## 🎯 D) Reward Modeling - DPO & ORPO
-
-| Reward Method | Colab Notebook | Video Link |
-|---------------|----------------|------------|
-| DPO (Direct Preference) | [Colab](#) | [Video](#) |
-| ORPO (Optimal Reward)   | [Colab](#) | [Video](#) |
+| DPO (Direct Preference) | [Colab](https://colab.research.google.com/drive/1Au1iYaK3KwRzLphHnGqMJCMge-1q9pkW#scrollTo=CuIoybYmAiJE) | [Video](#) |
+| ORPO (Optimal Reward)  
 
 > *Each notebook uses preference-based data and logs accuracy/reward shift.*
 
