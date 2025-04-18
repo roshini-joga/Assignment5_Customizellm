@@ -1,6 +1,6 @@
 # Assignment5_Customizellm
 
-# 🧠 LLM Fine-Tuning & Reward Modeling Assignment using Unsloth
+# LLM Fine-Tuning & Reward Modeling Assignment using Unsloth
 ---
 
 ## 📁 Contents
@@ -41,7 +41,7 @@ This repository contains Colab notebooks and demonstration videos for the follow
 ##  C) Chat Templates Use Cases
 
 Conversational Chatbot,Classification via Templates,Extended Context (TinyLlama),Multi-Dataset Single Training   
-| [Colab]() |   
+| [Colab](https://colab.research.google.com/drive/1eHOZ3Cj1iPUanWyjcrl7m0LId4OB5UT9#scrollTo=W4mkSncb4ffZ) |   
 | [Video](#) |
 
 ## 🎯 D) Reward Modeling - DPO & ORPO
