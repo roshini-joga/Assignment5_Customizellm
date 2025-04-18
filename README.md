@@ -69,6 +69,5 @@ Conversational Chatbot,Classification via Templates,Extended Context (TinyLlama)
 
 ## 🔁 G) Export to Ollama & Inference
 
-- 🔗 [Colab Notebook](#)  
-- 🔗 [Model exported to Ollama](#)  
-- 🧪 **Local Inference Demo**: [Video Link](#)
+- 🔗 [Colab Notebook](https://colab.research.google.com/drive/1Zdtd7VFTsho4WJESpELa8UoZqxDD2nIT#scrollTo=pCqnaKmlO1U9)   
+- 🧪 **Demo**: [Video Link](#)
