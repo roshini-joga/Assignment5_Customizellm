@@ -42,19 +42,19 @@ This repository contains Colab notebooks and demonstration videos for the follow
 
 Conversational Chatbot,Classification via Templates,Extended Context (TinyLlama),Multi-Dataset Single Training   
 | [Colab](https://colab.research.google.com/drive/1eHOZ3Cj1iPUanWyjcrl7m0LId4OB5UT9#scrollTo=W4mkSncb4ffZ) |   
-| [Video]() |
+| [Video](https://youtu.be/B0UrCdBFXcc) |
 
 ## 🎯 D) Reward Modeling - DPO & ORPO
-| DPO (Direct Preference),ORPO (Optimal Reward)| [Colab](https://colab.research.google.com/drive/1Au1iYaK3KwRzLphHnGqMJCMge-1q9pkW#scrollTo=CuIoybYmAiJE) | [Video]() |
-
-> *Each notebook uses preference-based data and logs accuracy/reward shift.*
+| DPO (Direct Preference),ORPO (Optimal Reward)| 
+| [Colab](https://colab.research.google.com/drive/1Au1iYaK3KwRzLphHnGqMJCMge-1q9pkW#scrollTo=CuIoybYmAiJE) |
+| [Video](https://youtu.be/NRgc-1aY_-8)|
 
 ---
 
 ## 🧩 E) Continued Fine-tuning from Custom Checkpoint
 
 - 🔗 [Colab Notebook](https://colab.research.google.com/drive/13WA9NS3Nrwa78yzUAn_MmZ3hfA1SkVba#scrollTo=HJcNEUrwnQD5)  
-- 🎥 [Video Walkthrough]()
+- 🎥 [Video Walkthrough](https://youtu.be/ho0z9pgGzDs)
 
 ---
 
