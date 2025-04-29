@@ -20,10 +20,10 @@ This repository contains Colab notebooks and demonstration videos for the follow
 
 | Model Used       | Use Case            | Colab Notebook | Video Link |
 |------------------|---------------------|----------------|------------|
-| LLaMA 3.1 (8B)   | Coding Assistant    | [Colab]()     | [Video](https://youtu.be/g1GIxGEVRa0) |
+| LLaMA 3.1 (8B)   | Coding Assistant    | [Colab](https://colab.research.google.com/drive/1puHytPYl48lsiUywdddyeEbgI78azglt)     | [Video](https://youtu.be/g1GIxGEVRa0) |
 | Mistral NeMo     | Conversational chat  | [Colab](https://colab.research.google.com/drive/1FPYlz8vdaGCHA-6vipkUzJDZQB9Bxe17#scrollTo=05ae6956)     | [Video](https://youtu.be/o-4VjLK0AFw) |
 | Gemma 2 (9B)     | Text Summarization   | [Colab](https://colab.research.google.com/drive/1X3nYiYiZjdCMgBQ7SJGCaZeLVUqOwtz0)     | [Video](https://youtu.be/Lr6QMYuhTSI) |
-| Phi3.5           | Sentiment Analysis   | [Colab](https://colab.research.google.com/drive/181ccUJMnpajYeQLkEpnB_ZSSfotSEm0A)     | [Video](#) |
+| Phi3.5           | Sentiment Analysis   | [Colab](https://colab.research.google.com/drive/181ccUJMnpajYeQLkEpnB_ZSSfotSEm0A)     | [Video](https://youtu.be/-kF96GxwEfY) |
 
 > *Note: Each notebook uses LoRA + Unsloth-based fine-tuning and logs loss, metrics, and inference validation.*
 
@@ -34,7 +34,7 @@ This repository contains Colab notebooks and demonstration videos for the follow
 - 🧾 **Task:** Make LLM learn a new language  
 - 📘 **Language Used:** [Telugu]  
 - 🔗 [Colab Notebook](https://colab.research.google.com/drive/1O-7G-kVvxNe1JUVLIc64Ejshv8kXdgRN#scrollTo=Ku1qNpnREwuM)  
-- 🎥 [Video Walkthrough](#)
+- 🎥 [Video Walkthrough](https://youtu.be/AUyo8XFVEi4)
 
 ---
 
@@ -42,10 +42,10 @@ This repository contains Colab notebooks and demonstration videos for the follow
 
 Conversational Chatbot,Classification via Templates,Extended Context (TinyLlama),Multi-Dataset Single Training   
 | [Colab](https://colab.research.google.com/drive/1eHOZ3Cj1iPUanWyjcrl7m0LId4OB5UT9#scrollTo=W4mkSncb4ffZ) |   
-| [Video](#) |
+| [Video]() |
 
 ## 🎯 D) Reward Modeling - DPO & ORPO
-| DPO (Direct Preference),ORPO (Optimal Reward)| [Colab](https://colab.research.google.com/drive/1Au1iYaK3KwRzLphHnGqMJCMge-1q9pkW#scrollTo=CuIoybYmAiJE) | [Video](#) |
+| DPO (Direct Preference),ORPO (Optimal Reward)| [Colab](https://colab.research.google.com/drive/1Au1iYaK3KwRzLphHnGqMJCMge-1q9pkW#scrollTo=CuIoybYmAiJE) | [Video]() |
 
 > *Each notebook uses preference-based data and logs accuracy/reward shift.*
 
@@ -70,4 +70,4 @@ Conversational Chatbot,Classification via Templates,Extended Context (TinyLlama)
 ## 🔁 G) Export to Ollama & Inference
 
 - 🔗 [Colab Notebook](https://colab.research.google.com/drive/1Zdtd7VFTsho4WJESpELa8UoZqxDD2nIT#scrollTo=pCqnaKmlO1U9)   
-- 🧪 **Demo**: [Video Link](#)
+- 🧪 **Demo**: [Video Link](https://youtu.be/IGkEYFOPjDk)
