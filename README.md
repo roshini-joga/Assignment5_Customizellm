@@ -21,7 +21,7 @@ This repository contains Colab notebooks and demonstration videos for the follow
 | Model Used       | Use Case            | Colab Notebook | Video Link |
 |------------------|---------------------|----------------|------------|
 | LLaMA 3.1 (8B)   | Coding Assistant    | [Colab](https://colab.research.google.com/drive/1puHytPYl48lsiUywdddyeEbgI78azglt)     | [Video](https://youtu.be/g1GIxGEVRa0) |
-| Mistral NeMo     | Conversational chat  | [Colab](https://colab.research.google.com/drive/1FPYlz8vdaGCHA-6vipkUzJDZQB9Bxe17#scrollTo=05ae6956)     | [Video](https://youtu.be/o-4VjLK0AFw) |
+| Mistral NeMo     | Conversational chat  | [Colab](https://colab.research.google.com/drive/1FPYlz8vdaGCHA-6vipkUzJDZQB9Bxe17#scrollTo=05ae6956)| [Video](https://youtu.be/o-4VjLK0AFw) |
 | Gemma 2 (9B)     | Text Summarization   | [Colab](https://colab.research.google.com/drive/1X3nYiYiZjdCMgBQ7SJGCaZeLVUqOwtz0)     | [Video](https://youtu.be/Lr6QMYuhTSI) |
 | Phi3.5           | Sentiment Analysis   | [Colab](https://colab.research.google.com/drive/181ccUJMnpajYeQLkEpnB_ZSSfotSEm0A)     | [Video](https://youtu.be/-kF96GxwEfY) |
 
@@ -53,15 +53,15 @@ Conversational Chatbot,Classification via Templates,Extended Context (TinyLlama)
 
 ## 🧩 E) Continued Fine-tuning from Custom Checkpoint
 
-- 🔗 [Colab Notebook]()  
-- 🎥 [Video Walkthrough](#)
+- 🔗 [Colab Notebook](https://colab.research.google.com/drive/13WA9NS3Nrwa78yzUAn_MmZ3hfA1SkVba#scrollTo=HJcNEUrwnQD5)  
+- 🎥 [Video Walkthrough]()
 
 ---
 
 ## 🧘‍♀️ F) Mental Health Chatbot using Phi-3
 
 - 🔗 [Colab Notebook](https://colab.research.google.com/drive/1FpjjmWD3-HqQfWZQZaTEx4T0lvYJlBxs?usp=sharing)  
-- 🎥 [Video Walkthrough](#)
+- 🎥 [Video Walkthrough](https://youtu.be/g0biUoznUSY)
 
 > *Model is trained on mental health-specific conversations and validated via chat.*
 
