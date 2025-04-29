@@ -60,7 +60,7 @@ Conversational Chatbot,Classification via Templates,Extended Context (TinyLlama)
 
 ## 🧘‍♀️ F) Mental Health Chatbot using Phi-3
 
-- 🔗 [Colab Notebook](https://colab.research.google.com/drive/1FpjjmWD3-HqQfWZQZaTEx4T0lvYJlBxs?usp=sharing)  
+- 🔗 [Colab Notebook](https://colab.research.google.com/drive/1rk4yhOLA5xa-IOuf9k6j5WjnGkShPttw#scrollTo=dJ7JHtX0-aC6)  
 - 🎥 [Video Walkthrough](https://youtu.be/g0biUoznUSY)
 
 > *Model is trained on mental health-specific conversations and validated via chat.*
