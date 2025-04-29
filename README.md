@@ -3,7 +3,7 @@
 # LLM Fine-Tuning & Reward Modeling Assignment using Unsloth
 ---
 
-## 📁 Contents
+##  Contents
 
 This repository contains Colab notebooks and demonstration videos for the following tasks using the **Unsloth AI** library:
 
@@ -16,7 +16,7 @@ This repository contains Colab notebooks and demonstration videos for the follow
 - G) Ollama Export + Inference  
 ---
 
-## 🧩 A) Fine-Tuning LLMs on Unique Use Cases
+##  A) Fine-Tuning LLMs on Unique Use Cases
 
 | Model Used       | Use Case            | Colab Notebook | Video Link |
 |------------------|---------------------|----------------|------------|
@@ -31,10 +31,10 @@ This repository contains Colab notebooks and demonstration videos for the follow
 
 ##  B) Continued Pretraining
 
-- 🧾 **Task:** Make LLM learn a new language  
-- 📘 **Language Used:** [Telugu]  
-- 🔗 [Colab Notebook](https://colab.research.google.com/drive/1O-7G-kVvxNe1JUVLIc64Ejshv8kXdgRN#scrollTo=Ku1qNpnREwuM)  
-- 🎥 [Video Walkthrough](https://youtu.be/AUyo8XFVEi4)
+-  **Task:** Make LLM learn a new language  
+-  **Language Used:** [Telugu]  
+-  [Colab Notebook](https://colab.research.google.com/drive/1O-7G-kVvxNe1JUVLIc64Ejshv8kXdgRN#scrollTo=Ku1qNpnREwuM)  
+-  [Video Walkthrough](https://youtu.be/AUyo8XFVEi4)
 
 ---
 
@@ -44,24 +44,24 @@ Conversational Chatbot,Classification via Templates,Extended Context (TinyLlama)
 | [Colab](https://colab.research.google.com/drive/1eHOZ3Cj1iPUanWyjcrl7m0LId4OB5UT9#scrollTo=W4mkSncb4ffZ) |   
 | [Video](https://youtu.be/B0UrCdBFXcc) |
 
-## 🎯 D) Reward Modeling - DPO & ORPO
+##  D) Reward Modeling - DPO & ORPO
 | DPO (Direct Preference),ORPO (Optimal Reward)| 
 | [Colab](https://colab.research.google.com/drive/1Au1iYaK3KwRzLphHnGqMJCMge-1q9pkW#scrollTo=CuIoybYmAiJE) |
 | [Video](https://youtu.be/NRgc-1aY_-8)|
 
 ---
 
-## 🧩 E) Continued Fine-tuning from Custom Checkpoint
+##  E) Continued Fine-tuning from Custom Checkpoint
 
-- 🔗 [Colab Notebook](https://colab.research.google.com/drive/13WA9NS3Nrwa78yzUAn_MmZ3hfA1SkVba#scrollTo=HJcNEUrwnQD5)  
-- 🎥 [Video Walkthrough](https://youtu.be/ho0z9pgGzDs)
+-  [Colab Notebook](https://colab.research.google.com/drive/13WA9NS3Nrwa78yzUAn_MmZ3hfA1SkVba#scrollTo=HJcNEUrwnQD5)  
+-  [Video Walkthrough](https://youtu.be/ho0z9pgGzDs)
 
 ---
 
 ## 🧘‍♀️ F) Mental Health Chatbot using Phi-3
 
-- 🔗 [Colab Notebook](https://colab.research.google.com/drive/1rk4yhOLA5xa-IOuf9k6j5WjnGkShPttw#scrollTo=dJ7JHtX0-aC6)  
-- 🎥 [Video Walkthrough](https://youtu.be/g0biUoznUSY)
+-  [Colab Notebook](https://colab.research.google.com/drive/1rk4yhOLA5xa-IOuf9k6j5WjnGkShPttw#scrollTo=dJ7JHtX0-aC6)  
+-  [Video Walkthrough](https://youtu.be/g0biUoznUSY)
 
 > *Model is trained on mental health-specific conversations and validated via chat.*
 
